@@ -1,0 +1,16 @@
+Modos de execução 
+- Hedless (padrão):sem exibição
+-> Não trm interferência do usuário;
+-> Leve
+-Headed: com exibição
+Melhores localizadores 2026:
+- Data-test (w3c)
+-id
+-name
+-cssSelector
+-class ou tag
+-xPath
+3 fatores comuns de erro em automação:
+-Seletor ruim
+- Falta de sincronismo
+- "Programação Exótica

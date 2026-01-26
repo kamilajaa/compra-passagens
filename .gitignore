@@ -1,0 +1,5 @@
+/.vscode
+/blaze_demo.spec.js
+/comprar_mochila.spec.js
+/node_modules
+/package-lock.json
