@@ -39,7 +39,7 @@ test('Realizar o fluxo de compra de passagens', async ({ page }) => {
     await page.fill('[name="nameOnCard"]', 'Kamila Araujo')
     const encontrar = page.locator('.btn.btn-primary')
     await encontrar.click()
-    
+
 
 })
 //final do teste
