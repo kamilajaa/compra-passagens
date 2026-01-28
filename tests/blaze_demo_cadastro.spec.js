@@ -15,4 +15,6 @@ test('Realizar o fluxo de compra de passagens', async ({ page }) => {
     await page.fill('[name="password"]', 'Senha!123')
     await page.fill('[name="password_confirmation"]', 'Senha!123')
     await page.locator('.btn.btn-primary').click()
+
+    
 })
