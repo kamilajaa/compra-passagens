@@ -17,4 +17,4 @@ test('Realizar o fluxo de compra de passagens', async ({ page }) => {
     await page.locator('.btn.btn-primary').click()
     
 })
-// final do teste 
+// final do test
